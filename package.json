@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.252.253.22:9980/mithuntechnologies/repository/nodejs-repo/"
+    "registry": "http://54.252.253.22:9980/greenstechnologies/repository/nodejs-repo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/greensTechnologies/node-js-application"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "Greens Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
+  "author": "Damodaranj",
   "license": "MIT"
 }
